@@ -12,5 +12,6 @@ public class DrinkOrderTester {
         System.out.println("6% Tax: " + d.getSalesTax()); //Displays the subtotal * .06
         
         System.out.println(d);  //Displays the whole order as shown in sample output
+    }
         
 }
